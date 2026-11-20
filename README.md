@@ -1,19 +1,30 @@
-# monportfolio
+<p align="center"><img src="docs/banner.png" alt="Portfolio — ancienne version — Ancienne version de mon portfolio" width="100%"></p>
 
-## Project setup
-```
+# Portfolio — ancienne version
+
+Ancienne version de mon portfolio.
+
+## Fonctionnalités
+
+- Pages Accueil et À propos
+
+## Technologies
+
+Vue 3 · Tailwind CSS · DaisyUI · Flowbite
+
+## Lancer le projet
+
+Prérequis : Node.js 16 ou plus.
+
+```bash
+git clone https://github.com/mafallseye/maguettefseye.github.io.git
+cd maguettefseye.github.io
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+> Projet réalisé en 2022 pendant ma formation. Il est conservé ici comme trace de mon parcours.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Auteure
+
+**Maguette Fall SEYE** — Développeuse Full Stack, Dakar (Sénégal) · [github.com/mafallseye](https://github.com/mafallseye)
